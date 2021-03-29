@@ -9,7 +9,7 @@ import java.lang.management.ThreadMXBean;
  */
 public class OnlyMain {
     public static void main(String[] args) {
-        //test
+        //test2
         //Java 虚拟机线程系统的管理接口
         ThreadMXBean threadMXBean = ManagementFactory.getThreadMXBean();
         // 不需要获取同步的monitor和synchronizer信息，仅仅获取线程和线程堆栈信息
