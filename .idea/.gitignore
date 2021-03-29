@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Java视频\享学课堂\（01）并发编程——mark老师\01-2019.04.16-线程基础、线程之间的共享和协作一（并发编程）\vip-v2-concurrent\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
